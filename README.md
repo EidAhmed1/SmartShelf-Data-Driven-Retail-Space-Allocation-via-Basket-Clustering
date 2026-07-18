@@ -5,8 +5,13 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 
-link datasets :
-kaggle.com/datasets/psparks/instacart-market-basket-analysis
+## 📂 Dataset
+
+The dataset used in this project is the **Instacart Market Basket Analysis Dataset**.
+
+You can access and download the dataset directly from Kaggle:
+
+[📥 Download Dataset - Instacart Market Basket Analysis](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
 
 ## 📖 Project Overview
 
