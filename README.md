@@ -5,6 +5,9 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 
+link datasets :
+kaggle.com/datasets/psparks/instacart-market-basket-analysis
+
 ## 📖 Project Overview
 
 Retailers traditionally allocate shelf space based on vendor influence or historical decisions, which often leads to inefficient store layouts, missed cross-selling opportunities, and poor customer experience.
